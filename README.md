@@ -1,4 +1,6 @@
 # Appliance-EDA-Classification
+
+(Go to https://github.com/DanielTranDS/Appliance-EDA-Classification/blob/main/AppliancesClassification_Codes.ipynb for implementation)
 Greenhouse gas emissions have become an increasingly concerning issue across the globe. They result in climate change, which in turn have far-reaching environmental and health consequences. Energy production and consumption is the main contributor to greenhouse gas emissions. Furthermore, empirical study shows that electricity consumption in residential areas contributes to more than 20% of this total energy consumption.
 
 In this project, I will be dealing with a time-series dataset. I will attempt to forecast the activation period for various appliances, all of which are commonly used in households in residential areas. This task can prove to be crucial because by using various machine learning techniques and correctly forecasting the activation period of appliances, we will have a better foresight of electricity consumption information, which in turn might provide valuable insights to come up with a better energy-saving technology.
